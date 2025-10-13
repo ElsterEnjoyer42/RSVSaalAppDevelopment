@@ -1,16 +1,3 @@
-Klar 👌 — hier ist eine komplette, moderne **README.md** für dein Projekt
-🖥️ **RSV Saal Desktop App** (die Python-basierte Version mit digital signierten Builds via Cosign).
-
-Ich hab sie so aufgebaut, dass sie
-
-* **für GitHub passt**,
-* den **technischen Ablauf klar erklärt**,
-* **Windows / macOS** beschreibt
-* und optional deine künftige Signatur-Automatisierung berücksichtigt.
-
----
-
-````markdown
 # 🖥️ RSV Saal Desktop App
 
 Dies ist die offizielle Desktop-Anwendung des RSV Saal e.V.  
@@ -155,11 +142,3 @@ MIT License – frei zur Nutzung und Anpassung.
 
 ```
 
----
-
-Willst du, dass ich noch **eine erweiterte GitHub-README-Version** mit:
-- Badges (Build Status, Download-Zähler),
-- Screenshots deiner App,
-- automatischer Release-Signierung per GitHub Actions  
-erstelle?
-```
