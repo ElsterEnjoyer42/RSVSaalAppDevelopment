@@ -1,0 +1,3 @@
+([('RSV Saal',
+   '/Users/julian/PycharmProjects/RSVSaalAppDevelopment/MacOS/dist/RSV Saal',
+   'EXECUTABLE')],)
